@@ -1,13 +1,16 @@
-# 👋 Hi, I’m @TDR-VOID  
+# 👋 Hi, I’m Tharaka
 
 ## 👀 I’m interested in  
 - Internet of Things (IoT)  
+- Industrial IoT (IIoT)  
 - Machine Learning and AI  
 - Embedded Systems Development  
 - PLC Programming and Industrial Automation  
+- Robot Operating System (ROS)  
 
 ## 🌱 I’m currently learning  
-- Building ML models for IoT devices with TensorFlow and Keras    
+- Robotics with ROS  
+- Autonomous Navigation  
 - Creating efficient battery management systems and portable DC power sources  
 
 ## 💞️ I’m looking to collaborate on  
@@ -15,18 +18,10 @@
 - Real-time tracking systems for logistics  
 - PLC programming for industrial automation  
 - Machine learning applications in healthcare  
+- Robotics projects  
 
 ## 📫 How to reach me  
 - LinkedIn: [Tharaka Rupasinghe](https://www.linkedin.com/in/tharaka-rupasinghe)  
 
 ## 😄 Pronouns:  
 - He/Him  
-
-## ⚡ Fun fact:  
-- I love combining industrial automation with modern tech like IoT and AI to create unique solutions for real-world problems. 🚀
-
-
-<!---
-TDR-VOID/TDR-VOID is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
